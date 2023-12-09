@@ -17,6 +17,6 @@ I am using Google Colab to create this .ipynb, because I though Jupiter Notebook
 Also, I ran SQL code in The Azure Data Studio, because when I tried to run it in the Github I got ### SyntaxError: [invalid syntax](https://colab.research.google.com/drive/1rgjSfylCj5FiNVAIA0Aiag2XnTjwIe3C#scrollTo=DlyFgU63vBLm&line=14&uniqifier=1)
 and they suggested I search stack overflow 
 
-I did not do that, but I learned that in GitHub when you make a change you need NOT TO FORGET to press green button <Commit Changes>
+I did not do that, but I learned that in GitHub when you make a change you need NOT TO FORGET to press the green button `rgb(9, 105, 218)`Commit Changes
 
 
