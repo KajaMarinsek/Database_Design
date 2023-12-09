@@ -12,6 +12,6 @@ Markdown cells explaining the process used within your script we built in class 
 Using draw.io create a diagram of the datamart and include it on your GitHub repository along with the .ipynb(s) as shown above (10 pts)
 
 ### OK, here we go!
-I am using Colab to create this .ipynb, because i though Jupiter Notebook needs to be purchased, than i started to research more about it cause they said it is open source, hence free, but it got even more complicated with some random namedroping of conda, pip and what not, and that was that.
+I am using Google Colab to create this .ipynb, because I though Jupiter Notebook needs to be purchased, than I started to research more about it, cause they said it is open source, hence free, but it got even more complicated with some random namedroping of conda, pip and what not, and that was that for me.
 
-Also, I ran SQL code in The Azure Data Studio, becauase when I tried to run it in Github I got ### SyntaxError: invalid syntax and they suggested I search stack overflow :)
+Also, I ran SQL code in The Azure Data Studio, because when I tried to run it in the Github I got ### SyntaxError: invalid syntax and they suggested I search stack overflow :)
