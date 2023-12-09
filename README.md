@@ -6,8 +6,8 @@
 .ipynb notebook containing the following :
 
 Markdown cells explaining the process used within your script we built in class (or a database you created for own use) and subsequent SQL code cells, for both: 
--- the DDL (table builds) - 5pts for the MDL and 5pts for the SQL Code itself and 
--- the Data Loading Scripts - 5pts for the MDL and 5pts for the SQL Code itself
+-  the DDL (table builds) - 5pts for the MDL and 5pts for the SQL Code itself and
+-  the Data Loading Scripts - 5pts for the MDL and 5pts for the SQL Code itself
 
 Using draw.io create a diagram of the datamart and include it on your GitHub repository along with the .ipynb(s) as shown above (10 pts)
 
