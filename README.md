@@ -20,7 +20,7 @@ and they suggested I search stack overflow :weary:
 I did not do that, but I learned :nerd_face: that in GitHub when you make a change you need **_NOT TO FORGET_** to press the `button in green`   <code style="green : name_color">CommitChanges...</code>
 
 Here are the files for my assgnmet 
--  [TheDDL_TableBuild](Kaja'sDDL.iypnb)
+-  [TheDDL_TableBuild][(Kaja'sDDL.iypnb)](https://github.com/KajaMarinsek/Database_Design/blob/main/Kaja'sDDL.ipynb)
 -
 - drawi.io 
 and the screenshot of the TargetMart created in Microsoft SQL Server Management Studio
