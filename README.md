@@ -1,4 +1,4 @@
-# Database_Design
+# 🛢 Database_Design
 
 ## December 2023 Assignment - GitHub Repo:
 **Link to your online GitHub repo containing the following:**
