@@ -22,6 +22,6 @@ I did not do that, but I learned :nerd_face: that in GitHub when you make a chan
 Here are the files for my assgnmet 
 -  [Kaja'sDDL.iypnb](https://github.com/KajaMarinsek/Database_Design/blob/main/Kaja'sDDL.ipynb)
 -  [Kaja'sDataLoader](https://github.com/KajaMarinsek/Database_Design/blob/main/Kaja'sDataLoader.ipynb)
--  [Kaja'sDraw.ioTargetMart]
+-  [Kaja'sDraw.ioTargetMart](https://github.com/KajaMarinsek/Database_Design/blob/main/Kaja'sDraw.ioTargetMart.jpg)
 -  and the bonus screenshot of the TargetMart created in Microsoft SQL Server Management Studio
 ![DataMartFirstDiagramScreenshot 2023-12-08 225811](https://github.com/KajaMarinsek/Database_Design/assets/148265391/043257da-5db4-4add-bd42-7ae52a5d274b)
