@@ -17,8 +17,8 @@ I am using Google Colab to create this .ipynb, because I though Jupiter Notebook
 Also, I ran SQL code in The Azure Data Studio, because when I tried to run it in the Colab I got ### SyntaxError: [invalid syntax](https://colab.research.google.com/drive/1rgjSfylCj5FiNVAIA0Aiag2XnTjwIe3C#scrollTo=DlyFgU63vBLm&line=14&uniqifier=1)
 and they suggested I search stack overflow :weary:
 
-I did not do that, but I learned that in GitHub when you make a change you need **_NOT TO FORGET_** to press the  <code style="green : green">CommitChanges...</code> 
-And I was keep on pressing commit changes, instead of <code style=": ">Preview</code>, so now my GitHub stats looks like i commited 50 things... :joy: :see_no_evil:
+I did not do that, but I learned that in GitHub when you make a change you need **_NOT TO FORGET_** to press the  <code style="green : green">CommitChanges...</code>
+And I was keep on pressing commit changes, instead of <code style=": ">Preview</code>, so now my GitHub stats look a little out there... :joy: :see_no_evil:
 
 OK, OK, Here are the files for my assgnmet: 
 -  [Kaja'sDDL.iypnb](https://github.com/KajaMarinsek/Database_Design/blob/main/Kaja'sDDL.ipynb)
