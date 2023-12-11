@@ -19,7 +19,7 @@ and they suggested I search stack overflow :weary:
 
 I did not do that, but I learned :nerd_face: that in GitHub when you make a change you need **_NOT TO FORGET_** to press the  <code style="green : green">CommitChanges...</code>
 
-Here are the files for my assgnmet 
+OK, OK, Here are the files for my assgnmet: 
 -  [Kaja'sDDL.iypnb](https://github.com/KajaMarinsek/Database_Design/blob/main/Kaja'sDDL.ipynb)
 -  [Kaja'sDataLoader](https://github.com/KajaMarinsek/Database_Design/blob/main/Kaja'sDataLoader.ipynb)
 -  [Kaja'sDraw.ioTargetMart](https://github.com/KajaMarinsek/Database_Design/blob/main/Kaja'sDraw.ioTargetMart.jpg)
